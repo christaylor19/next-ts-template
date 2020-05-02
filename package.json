@@ -4,7 +4,9 @@
   "description": "private template repository for next js projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,15 @@
   "bugs": {
     "url": "https://github.com/christaylor19/next-ts-template/issues"
   },
-  "homepage": "https://github.com/christaylor19/next-ts-template#readme"
+  "homepage": "https://github.com/christaylor19/next-ts-template#readme",
+  "dependencies": {
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "@types/react": "^16.9.34",
+    "typescript": "^3.8.3"
+  }
 }
