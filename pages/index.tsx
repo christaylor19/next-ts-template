@@ -1,7 +1,8 @@
 import React from 'react';
+import Header from '../boilerplate-components/atoms/Header';
 
 function HomePage() {
-  return <div>Welcome to Next.js!</div>;
+  return <Header text="Welcome to Next.js!" />;
 }
 
 export default HomePage;

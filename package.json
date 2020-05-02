@@ -7,7 +7,9 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "test": "jest --watch -u --silent"
+    "test": "jest",
+    "test-update": "jest --watch -u",
+    "test-update-silent": "jest --watch -u --silent"
   },
   "repository": {
     "type": "git",
