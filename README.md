@@ -1,20 +1,6 @@
 # NextJS Boilerplate Repository
 
-It's annoying to setup the configuration for TypeScript, ESLint and more for each and every project so I've created a Github template repository to use for JAMStack Applications using NextJS
-
-## JAMStack
-
-**JAMStack** is a modern technology stack used for simple web applications standing for:
-
-- JavaScript
-- APIs
-- Markup
-
-In the words of the [JAMStack website](https://jamstack.org/), it is
-
-> Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers.
-
-NextJS is just one of the many static site generators. It is more than a site generator though and is an excellent framework for React. It is a server-side rendered site generator in that the user writes the code using React, but it is marked up into HTML at the server side.
+It's annoying to setup the configuration for TypeScript, ESLint and more for each and every project so I've created a Github template repository to use for applications built using NextJS
 
 ## How to use this repo?
 
