@@ -1,4 +1,4 @@
-# NextJS Boilerplate Repository
+# NextJS Boilerplate Repository - test change
 
 It's annoying to setup the configuration for TypeScript, ESLint and more for each and every project so I've created a Github template repository to use for applications built using NextJS
 
