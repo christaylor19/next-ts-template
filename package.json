@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/christaylor19/next-ts-template#readme",
   "dependencies": {
-    "next": "^12.2.5",
+    "next": "^12.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-test-renderer": "^18.2.0",
